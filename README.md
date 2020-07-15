@@ -45,7 +45,7 @@ A travis configuration file (`.travis.yml`) is already in your repository (so, n
 create it). This will run `flake8` and run the tests under `tests`.
 
 To enable it server-side, just go to https://travis-ci.com/account/repositories and click
-` Manage repositories on GitHub`. Give the permission to run on the git repository you just created.
+` Manage repositories on GitHub`. Give the permission to run on the git repository you just created. -- cem: I think you can clarify that this will take me to github, and I will give the access there. 
 
 Note, the link for public project may be https://travis-ci.org/account/repositories .
 
